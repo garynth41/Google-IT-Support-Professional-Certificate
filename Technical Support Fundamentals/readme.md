@@ -19,7 +19,6 @@ This course is the first of a series that aims to prepare you for a role as an e
 * Troubleshooting
 
 Instructor
- 
 Google
  
 ## Google
