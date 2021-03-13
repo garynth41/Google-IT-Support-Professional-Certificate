@@ -17,7 +17,7 @@ This course is designed to provide a full overview of computer networking. We’
 
 
 ## SKILLS GAINED
-* Domain Name System (DNS)
+* Domain Name System (DNS) 
 * Ipv4
 * Network Model
 * Troubleshooting
