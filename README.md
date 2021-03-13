@@ -1,13 +1,17 @@
 # Google-IT-Support-Professional-Certificate
 IT career. In this program, you’ll learn the in-demand skills that will have you job-ready.
 
-
+## 1 - Technical Support Fundamentals
+## 2 - The Bits and Bytes of Computer Networking
+## 3 - Operating Systems and You: Becoming a Power User
+## 4 - System Administration and IT Infrastructure Services
+## 5 - IT Security: Defense against the digital dark arts
 
 ## WHAT YOU WILL LEARN
-*Gain skills required to succeed in an entry-level IT capacity
-*Learn to perform day-to-day IT support tasks including computer assembly, wireless networking, installing programs, and customer service
-*Learn how to provide end-to-end customer support, ranging from identifying problems to troubleshooting and debugging
-*Learn to use systems including Linux, Domain Name Systems, Command-Line Interface, and Binary Code
+* Gain skills required to succeed in an entry-level IT capacity
+* Learn to perform day-to-day IT support tasks including computer assembly, wireless networking, installing programs, and customer service
+* Learn how to provide end-to-end customer support, ranging from identifying problems to troubleshooting and debugging
+* Learn to use systems including Linux, Domain Name Systems, Command-Line Interface, and Binary Code
 
 ## SKILLS GAINED
 * Debugging
@@ -28,16 +32,13 @@ In this 5-course certificate program, you’ll prepare for an entry-level job in
 
 Upon completion of the certificate, learners eligible to work in the US can directly share their information with Google, as well as employers like Hulu, Infosys, Intel, Walmart, and more.
 
-This program also prepares you for the CompTIA A+ exams, the industry standard certification for IT— you’ll earn a dual credential when you complete both. Through a mix of video lectures, quizzes, and hands-on labs, you’ll get introduced to troubleshooting, customer service, networking, operating systems, system administration, and security — foundational IT skills required for an entry-level role. You’ll hear from Googlers whose foundations in IT support, served as launchpads for their own careers. By dedicating ~5 hours a week, you can complete in 3-6 months.
+#### This program also prepares you for the CompTIA A+ exams, the industry standard certification for IT— you’ll earn a dual credential when you complete both. Through a mix of video lectures, quizzes, and hands-on labs, you’ll get introduced to troubleshooting, customer service, networking, operating systems, system administration, and security — foundational IT skills required for an entry-level role. You’ll hear from Googlers whose foundations in IT support, served as launchpads for their own careers. By dedicating ~5 hours a week, you can complete in 3-6 months.
 
-# This program is ACE® certified—when you complete, you can earn up to 12 college credits, the equivalent of 4 associate degree-level courses.
+#### This program is ACE® certified—when you complete, you can earn up to 12 college credits, the equivalent of 4 associate degree-level courses.
 
 
 ## Applied Learning Project
-In this Professional Certificate program you'll have access to a variety of hands-on assessments which will help you simulate real-world IT support scenarios that are critical for success in the workplace.
-
-Examples of virtual assessments include: computer assembly, networking simulation, writing effective support documentation, routing paths and subnets, wireless networking, device software management, public key or asymmetric encryption, incident handling, and more.
-
+In this Professional Certificate program you'll have access to a variety of hands-on assessments which will help you simulate real-world IT support scenarios that are critical for success in the workplace. Examples of virtual assessments include: computer assembly, networking simulation, writing effective support documentation, routing paths and subnets, wireless networking, device software management, public key or asymmetric encryption, incident handling, and more.
 
 
 
