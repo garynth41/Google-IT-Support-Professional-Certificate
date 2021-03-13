@@ -1,11 +1,11 @@
 # Google-IT-Support-Professional-Certificate
 IT career. In this program, you’ll learn the in-demand skills that will have you job-ready.
 
-## 1 - Technical Support Fundamentals
-## 2 - The Bits and Bytes of Computer Networking
-## 3 - Operating Systems and You: Becoming a Power User
-## 4 - System Administration and IT Infrastructure Services
-## 5 - IT Security: Defense against the digital dark arts
+### 1 - Technical Support Fundamentals
+### 2 - The Bits and Bytes of Computer Networking
+### 3 - Operating Systems and You: Becoming a Power User
+### 4 - System Administration and IT Infrastructure Services
+### 5 - IT Security: Defense against the digital dark arts
 
 ## WHAT YOU WILL LEARN
 * Gain skills required to succeed in an entry-level IT capacity
